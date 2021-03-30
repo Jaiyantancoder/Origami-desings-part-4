@@ -1,0 +1,47 @@
+
+
+.grid{
+
+  border: 2px solid black;
+  border-radius: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.origami{
+
+justify-content: space-evenly;
+border: solid;  
+font-family: sans-serif;
+border-radius: 25px;
+padding: 35px;
+margin: 25px;
+width: 310px;
+display: flex;
+flex-direction: column;
+right: 50px;
+
+width: 310px;
+font-family: fantasy;
+}
+
+.bodyimage{
+
+position: absolute;
+
+border: red;
+
+}
+
+.titletext{
+color: orange;
+position: relative;
+font-size: 30px;
+}
+
+.titleparagraph{
+color: white;
+position: relative;
+
+}
+
